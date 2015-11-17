@@ -1,0 +1,7 @@
+.DS_STORE
+.ipynb_checkpoints
+*.swp
+*.swo
+data/
+name*
+*.pyc
